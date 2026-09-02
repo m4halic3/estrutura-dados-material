@@ -12,24 +12,37 @@ Se você está com dificuldade em algum conceito específico, comece pelo tópic
 
 ---
 
-## <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Ponteiros e alocação de memória
+<div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
+
+### <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Ponteiros e alocação de memória
 
 Como variáveis são armazenadas na memória, o que são ponteiros, e como funciona a alocação dinâmica (`malloc`, `free`) em C.
 
-[Acessar material →](https://github.com/m4halic3/algoritmos-ponteiros-alocacao)
+<a href="https://github.com/m4halic3/algoritmos-ponteiros-alocacao">Acessar material →</a>
 
-## <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas lineares
+</div>
+
+<div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
+
+### <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas lineares
 
 **Filas** — *em construção*
 **Pilhas** — *em construção*
 
-## <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas não lineares
+</div>
+
+<div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
+
+### <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas não lineares
 
 **Árvores** — *em construção*
 
+</div>
+
 ---
+
 <div align="center">
 
-Material organizado por [Mariana](https://github.com/m4halic3) · atualizado periodicamente conforme novos conteúdos são adicionados
+Material organizado por <a href="https://github.com/m4halic3">Mariana</a> · atualizado periodicamente conforme novos conteúdos são adicionados
 
 </div>
