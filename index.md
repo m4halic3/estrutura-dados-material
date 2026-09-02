@@ -12,9 +12,9 @@ Se você está com dificuldade em algum conceito específico, comece pelo tópic
 
 ---
 
-<div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
+<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
 
-### <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Ponteiros e alocação de memória
+### 🧠 Ponteiros e alocação de memória
 
 Como variáveis são armazenadas na memória, o que são ponteiros, e como funciona a alocação dinâmica (`malloc`, `free`) em C.
 
@@ -22,18 +22,18 @@ Como variáveis são armazenadas na memória, o que são ponteiros, e como funci
 
 </div>
 
-<div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
+<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
 
-### <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas lineares
+### 📐 Estruturas lineares
 
 **Filas** — *em construção*
 **Pilhas** — *em construção*
 
 </div>
 
-<div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
+<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px;">
 
-### <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas não lineares
+### 🌳 Estruturas não lineares
 
 **Árvores** — *em construção*
 
