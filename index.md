@@ -1,36 +1,33 @@
-<div align="center">
+## Sobre este material
 
-# 📚 Material de Estrutura de Dados
+Este espaço reúne o material de apoio das aulas de Estrutura de Dados, organizado por tópico. A ideia é que sirva como ponto de referência para revisar conceitos com calma, no seu ritmo — com explicações, exemplos comentados e código que você pode rodar e modificar.
 
-Repositório central com o material de apoio das aulas — código, exemplos e explicações organizados por tópico.
-
-![GitHub last commit](https://img.shields.io/github/last-commit/m4halic3/estrutura-dados-material?style=flat-square)
-![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-yellow?style=flat-square)
-
-</div>
+Cada tópico abaixo tem seu próprio repositório, com um README detalhado explicando o conteúdo passo a passo.
 
 ---
 
-## 🧭 Como usar
+## Por onde começar
 
-Cada tópico abaixo tem seu próprio repositório, com código comentado e um README explicando o conteúdo.
-
-## 📂 Tópicos por categoria
-
-### 🔗 Ponteiros e Alocação de Memória
-[![Repo](https://img.shields.io/badge/repo-algoritmos--ponteiros--alocacao-blue?style=for-the-badge&logo=github)](https://github.com/m4halic3/algoritmos-ponteiros-alocacao)
-
-### 📋 Estruturas Lineares
-![Em breve](https://img.shields.io/badge/filas-em%20breve-lightgrey?style=for-the-badge)
-![Em breve](https://img.shields.io/badge/pilhas-em%20breve-lightgrey?style=for-the-badge)
-
-### 🌳 Estruturas Não Lineares
-![Em breve](https://img.shields.io/badge/árvores-em%20breve-lightgrey?style=for-the-badge)
+Se você está com dificuldade em algum conceito específico, comece pelo tópico correspondente na lista abaixo. Cada repositório foi escrito pensando em quem está vendo o assunto pela primeira vez — sem pressupor conhecimento prévio.
 
 ---
 
-<div align="center">
+## Ponteiros e alocação de memória
 
-Feito por [Mariana](https://github.com/m4halic3) · atualizado periodicamente conforme novos conteúdos são adicionados
+Como variáveis são armazenadas na memória, o que são ponteiros, e como funciona a alocação dinâmica (`malloc`, `free`) em C.
 
-</div>
+[Acessar material →](https://github.com/m4halic3/algoritmos-ponteiros-alocacao)
+
+## Estruturas lineares
+
+**Filas** — *em construção*
+**Pilhas** — *em construção*
+
+## Estruturas não lineares
+
+**Árvores** — *em construção*
+
+---
+<center>
+Material organizado por [Mariana](https://github.com/m4halic3). Atualizado periodicamente conforme novos conteúdos são adicionados.
+</center>
