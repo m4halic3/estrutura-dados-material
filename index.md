@@ -12,22 +12,24 @@ Se você está com dificuldade em algum conceito específico, comece pelo tópic
 
 ---
 
-## Ponteiros e alocação de memória
+## <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Ponteiros e alocação de memória
 
 Como variáveis são armazenadas na memória, o que são ponteiros, e como funciona a alocação dinâmica (`malloc`, `free`) em C.
 
 [Acessar material →](https://github.com/m4halic3/algoritmos-ponteiros-alocacao)
 
-## Estruturas lineares
+## <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas lineares
 
 **Filas** — *em construção*
 **Pilhas** — *em construção*
 
-## Estruturas não lineares
+## <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" style="vertical-align:middle"> Estruturas não lineares
 
 **Árvores** — *em construção*
 
 ---
-<center>
-Material organizado por [Mariana](https://github.com/m4halic3). Atualizado periodicamente conforme novos conteúdos são adicionados.
-</center>
+<div align="center">
+
+Material organizado por [Mariana](https://github.com/m4halic3) · atualizado periodicamente conforme novos conteúdos são adicionados
+
+</div>
