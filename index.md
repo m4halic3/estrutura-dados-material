@@ -18,7 +18,7 @@ Se você está com dificuldade em algum conceito específico, comece pelo tópic
 
 Como variáveis são armazenadas na memória, o que são ponteiros, e como funciona a alocação dinâmica (`malloc`, `free`) em C.
 
-<a href="https://github.com/m4halic3/algoritmos-ponteiros-alocacao">Acessar material →</a>
+<a href="https://m4halic3.github.io/algoritmos-ponteiros-alocacao/">Acessar material →</a>
 
 </div>
 
